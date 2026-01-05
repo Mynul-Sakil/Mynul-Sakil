@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Mynul Islam</h1>
-<h3 align="center">Full Stack Developer | React Specialist</h3>
+<h3 align="center">Full Stack Developer | Nextjs Specialist</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mynul-islam-sakil/">
