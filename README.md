@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sakil470004/sakil470004/blob/main/mynul-cover.webp" alt="Banner" width="100%">
+  <img src="https://github.com/Mynul-Sakil/Mynul-Sakil/blob/main/mynul-cover.webp" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Mynul Islam</h1>
@@ -15,7 +15,7 @@
   <a href="https://portfolio-2-0-sage-three.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-4A154B?style=flat&logo=vercel&logoColor=white">
   </a>
-  <a href="https://raw.githubusercontent.com/sakil470004/sakil470004/main/resume.pdf" target="_blank" download>
+  <a href="https://raw.githubusercontent.com/Mynul-Sakil/Mynul-Sakil/main/resume.pdf" target="_blank" download>
     <img src="https://img.shields.io/badge/Download%20Resume-FF6F00?style=flat&logo=adobe-acrobat-reader&logoColor=white">
   </a>
 </p>
@@ -83,8 +83,8 @@
 
 | Project | Tech Stack | Key Features | Links |
 |---------|------------|--------------|-------|
-| **[Ticket Fusion](https://ticketfusion-ui.vercel.app/)** | MERN, Stripe | Real-time booking, Payment integration | [preview](https://ticketfusion-ui.vercel.app/) [Client](https://github.com/sakil470004/ticketfusion-ui) [Server](https://github.com/sakil470004/ticketfusion-server) |
-| **[Easy Bazaar](https://easy-bazar-ui.vercel.app/)** | React, Firebase | JWT auth, Product search | [preview](https://easy-bazar-ui.vercel.app/) [Client](https://github.com/sakil470004/easy-bazar-ui) [Server](https://github.com/sakil470004/easy-bazar-server) |
+| **[Ticket Fusion](https://ticketfusion-ui.vercel.app/)** | MERN, Stripe | Real-time booking, Payment integration | [preview](https://ticketfusion-ui.vercel.app/) [Client](https://github.com/Mynul-Sakil/ticketfusion-ui) [Server](https://github.com/Mynul-Sakil/ticketfusion-server) |
+| **[Easy Bazaar](https://easy-bazar-ui.vercel.app/)** | React, Firebase | JWT auth, Product search | [preview](https://easy-bazar-ui.vercel.app/) [Client](https://github.com/Mynul-Sakil/easy-bazar-ui) [Server](https://github.com/Mynul-Sakil/easy-bazar-server) |
 | **[Battle Toys](https://battle-toys-5a066.web.app/)** | Next.js, MongoDB | Seller dashboard, Inventory management | [preview](https://battle-toys-5a066.web.app/) |
 | **[DevTools Pro](https://devtools-pro.netlify.app/)** | React, Tailwind | Developer utilities suite | [preview](https://devtools-pro.netlify.app/) |
 
@@ -111,14 +111,14 @@ Programming Hero Certification (2023)
 ### 📈 GitHub Stats
 
 <p align="left">
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakil470004&show_icons=true&theme=tokyonight"> -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sakil470004&theme=tokyonight">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakil470004&theme=tokyonight">
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mynul-Sakil&show_icons=true&theme=tokyonight"> -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mynul-Sakil&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mynul-Sakil&theme=tokyonight">
 </p>
 
 ---
 
 <p align="center">
   <i>Let's connect and build something amazing together!</i><br>
-  <a href="https://github.com/sakil470004/sakil470004.git">GitHub Repo</a>
+  <a href="https://github.com/Mynul-Sakil/Mynul-Sakil.git">GitHub Repo</a>
 </p>
