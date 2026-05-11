@@ -12,7 +12,7 @@
   <a href="mailto:mynul.sakil@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white">
   </a>
-  <a href="https://portfolio-2-0-sage-three.vercel.app/">
+  <a href="https://mynul-sakil-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-4A154B?style=flat&logo=vercel&logoColor=white">
   </a>
   <a href="https://raw.githubusercontent.com/Mynul-Sakil/Mynul-Sakil/main/resume.pdf" target="_blank" download>
