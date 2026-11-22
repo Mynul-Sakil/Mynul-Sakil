@@ -8,7 +8,7 @@
         I build revenue-ready <strong>multi-tenant SaaS platforms</strong>, high-throughput <strong>REST / GraphQL / tRPC APIs</strong>, asynchronous job queues (<strong>Redis &amp; BullMQ</strong>), and practical <strong>AI/LLM workflows</strong> using TypeScript, Node.js, Next.js, and PostgreSQL.
       </p>
       <p>
-        <a href="https://protfolio-customize.vercel.app">
+        <a href="https://mynul-portfolo.vercel.app/">
           <img src="https://img.shields.io/badge/Portfolio-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
         </a>
         <a href="https://www.linkedin.com/in/mynul-islam-sakil/">
